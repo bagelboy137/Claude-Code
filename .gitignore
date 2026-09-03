@@ -24,3 +24,9 @@ __pycache__/
 # Build output
 dist/
 build/
+
+# projects/job-hunt
+projects/job-hunt/.seen_jobs.json
+projects/job-hunt/resume/*.pdf
+projects/job-hunt/resume/*.txt
+projects/job-hunt/resume/*.docx
